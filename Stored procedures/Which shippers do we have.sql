@@ -1,0 +1,1 @@
+SELECT * FROM [NORTHWND].[dbo].[Shippers] WITH(NOLOCK)
