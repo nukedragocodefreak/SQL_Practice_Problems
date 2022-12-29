@@ -1,0 +1,1 @@
+SELECT OrderID, ProductID, UnitPrice, Quantity, (UnitPrice * Quantity) AS  TotalPrice  FROM [NORTHWND].[dbo].[Order Details] WITH(NOLOCK)

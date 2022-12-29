@@ -65,5 +65,12 @@
     <Build Include="scripts\Sales Representatives in the United States.sql" />
     <Build Include="scripts\Suppliers and ContactTitles.sql" />
     <Build Include="scripts\Orders placed by specific EmployeeID.sql" />
+    <Build Include="scripts\OrderDetails amount per line item.sql" />
+    <Build Include="scripts\Employees full name.sql" />
+    <Build Include="scripts\Showing only the Date with a DateTime field.sql" />
+    <Build Include="scripts\Employees, in order of age.sql" />
+    <Build Include="scripts\Orders shipping to any country in Latin America.sql" />
+    <Build Include="scripts\Orders shipping to France or Belgium.sql" />
+    <Build Include="scripts\Products with “queso” in ProductName.sql" />
   </ItemGroup>
 </Project>
