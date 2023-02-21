@@ -72,5 +72,11 @@
     <Build Include="scripts\Orders shipping to any country in Latin America.sql" />
     <Build Include="scripts\Orders shipping to France or Belgium.sql" />
     <Build Include="scripts\Products with “queso” in ProductName.sql" />
+    <Build Include="scripts\How many customers.sql" />
+    <Build Include="scripts\When was the first order.sql" />
+    <Build Include="scripts\Countries where there are customers.sql" />
+    <Build Include="scripts\Contact titles for customers.sql" />
+    <Build Include="scripts\Products with associated supplier names.sql" />
+    <Build Include="scripts\Orders and the Shipper that was used.sql" />
   </ItemGroup>
 </Project>
